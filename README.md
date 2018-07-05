@@ -36,3 +36,13 @@ Job=Clr  Runtime=Clr
 
 ```
 * [Full benchmark summary](https://raw.githubusercontent.com/jefersonsv/BranchPrediction/master/benchmark.txt)
+
+# Resources
+* https://en.wikipedia.org/wiki/Branch_predictor
+* https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array
+* https://software.intel.com/en-us/articles/avoiding-the-cost-of-branch-misprediction
+* https://software.intel.com/en-us/articles/branch-and-loop-reorganization-to-prevent-mispredicts
+* http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/demo.htm
+* https://courses.cs.washington.edu/courses/csep548/06au/lectures/branchPred.pdf
+* https://web.njit.edu/~rlopes/Mod5.3.pdf
+* http://www.agner.org/optimize/microarchitecture.pdf
